@@ -1,0 +1,26 @@
+[
+	{
+		"id": "S1001",
+		"firstName": "Kunal",
+		"lastName": "kumar",
+		"email": "Kunal007@programminghub.com",
+		"password": "password007",
+		"collegeId": "col-102"
+	},
+	{
+		"id": "S1002",
+		"email": "Swati007@programminghub.com",
+		"firstName": "Swati",
+		"lastName": "Sharma",
+		"password": "password321",
+		"collegeId": "col-101"
+	},
+	{
+		"id": "S1003",
+		"email": "Varun@programminghub.com",
+		"firstName": "Varun",
+		"lastName": "Pandey",
+		"password": "pass123",
+		"collegeId": "col-101"
+	}
+]

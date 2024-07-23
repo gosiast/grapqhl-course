@@ -1,0 +1,14 @@
+[
+	{
+		"id": "col-101",
+		"name": "AMU",
+		"location": "New Jersey",
+		"rating": 4.7
+	},
+	{
+		"id": "col-102",
+		"name": "CUSAT",
+		"location": "Atlanta",
+		"rating": 4.3
+	}
+]
